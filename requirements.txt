@@ -1,0 +1,9 @@
+sentencepiece
+tiktoken
+protobuf
+torch
+datasets 
+pandas 
+transformers 
+evaluate 
+numpy  
